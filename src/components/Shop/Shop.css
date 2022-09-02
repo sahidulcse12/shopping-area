@@ -10,3 +10,8 @@
     grid-gap: 45px;
     justify-self: center;
 }
+
+.card-container {
+    background-color: goldenrod;
+    text-align: center;
+}
